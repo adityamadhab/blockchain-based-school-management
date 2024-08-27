@@ -1,5 +1,5 @@
 # Blockchain-Based School Management
-
+# ![Project Logo](logo.png)  
 ## Vision
 
 The Blockchain-Based School Management aims to create a decentralized, transparent, and secure system for managing school operations. It allows for seamless registration and management of students and teachers, providing a tamper-proof record of their data. This contract can be expanded to support various administrative functions, fostering trust and efficiency in educational institutions.
