@@ -57,7 +57,7 @@ The **Blockchain-Based School Management** system aims to revolutionize school o
 
 - **Contract Name:** `SchoolManagement`
 - **License:** MIT
-- **Network:** Ethereum
+- **Network:** EduChain
 - **Contract Address:** `0xA253Bf9105FBDB40729BeC9Cdd9C83A2cA1d3d46`
 
 ### 🚀 **Functions**
