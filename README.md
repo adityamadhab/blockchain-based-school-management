@@ -2,8 +2,11 @@
 ---
 
 # Blockchain-Based School Management
+### <img src="logo.png" alt="Project Logo" width="300"/>
 
-![Project Logo](demo.png)
+## Project Demo
+
+![Project Demo](demo.png)
 
 ---
 
