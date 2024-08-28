@@ -20,7 +20,7 @@ The **Blockchain-Based School Management** system aims to revolutionize school o
 
 - **Smart Contract:** Solidity (0.8.19)
 - **Frontend:** React.js, Tailwind CSS
-- **Blockchain Network:** Ethereum
+- **Blockchain Network:** EduChain
 - **Deployment Tools:** Hardhat, MetaMask
 
 ---
@@ -119,7 +119,7 @@ The frontend of the Blockchain-Based School Management system is built using **R
 
 1. **Compile and Deploy the Contract**
    - Use **Hardhat** or **Truffle** for contract deployment.
-   - Ensure MetaMask is connected to the Ethereum network.
+   - Ensure MetaMask is connected to the Educhain network.
 
 2. **Deploy to Ethereum**
    - Deploy the contract and note the contract address.
