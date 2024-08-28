@@ -91,7 +91,7 @@ The frontend of the Blockchain-Based School Management system is built using **R
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/adityamadhab/school-management
-   cd school-management
+   cd school-management/client
    ```
 
 2. **Install Dependencies**
