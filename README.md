@@ -3,7 +3,7 @@
 
 # Blockchain-Based School Management
 
-![Project Logo](logo.png)
+![Project Logo](demo.png)
 
 ---
 
